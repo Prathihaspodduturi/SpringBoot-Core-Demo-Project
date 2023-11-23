@@ -17,13 +17,12 @@ Java Development Kit (JDK) 8 or higher
 Maven for dependency management
 IntelliJ IDEA
 
-# Installation
-git clone [repository-url]
-cd spring-core-demo-project
-mvn clean install
+# Running the Application Locally
+1. Clone the repository to the local machine.
+2. Open the directory in the IntelliJ IDEA.
+3. In the src directory, right click on MycoolappApplication file and select RUN 'MycoolappApplication'.
 
-# Running the Application
-mvn spring-boot:run
+In the browser visit 'http://localhost:8080.
 
 # Code Structure
 com.luv2code.springcoredemo.common: Contains coach interfaces and implementations.
