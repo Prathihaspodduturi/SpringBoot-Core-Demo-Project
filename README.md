@@ -13,9 +13,9 @@ Qualifier and Primary Annotations: Usage of @Qualifier and @Primary to manage mu
 # Getting Started
 
 # Prerequisites
-Java Development Kit (JDK) 8 or higher
-Maven for dependency management
-IntelliJ IDEA
+1. Java Development Kit (JDK) 8 or higher
+2. Maven for dependency management
+3. IntelliJ IDEA
 
 # Running the Application Locally
 1. Clone the repository to the local machine.
@@ -25,6 +25,6 @@ IntelliJ IDEA
 In the browser visit 'http://localhost:8080.
 
 # Code Structure
-com.luv2code.springcoredemo.common: Contains coach interfaces and implementations.
-com.luv2code.springcoredemo.config: Java-based Spring configuration.
-com.luv2code.springcoredemo.rest: REST controllers demonstrating the use of Spring MVC.
+1. com.luv2code.springcoredemo.common: Contains coach interfaces and implementations.
+2. com.luv2code.springcoredemo.config: Java-based Spring configuration.
+3. com.luv2code.springcoredemo.rest: REST controllers demonstrating the use of Spring MVC.
